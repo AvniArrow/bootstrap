@@ -1,0 +1,46 @@
+body {
+    text-align: center;
+}
+
+.line {
+    height:6px;
+    width:100px;
+    background-color: darkorchid;
+    margin:10px auto;
+}
+
+img {
+    border:5px solid chartreuse;
+}
+
+a :hover {
+    height: 200px ;
+    width: 200px ;
+}
+
+#app {
+    width : 100% ;
+    background-color:darkorange;
+}
+
+#game {
+    width : 100% ;
+    background-color:dodgerblue;
+}
+
+#chatbot {
+    width : 100% ;
+    background-color:hotpink;
+}
+
+#myCarousel {
+    background-color: crimson;
+    padding: 20px;
+
+}
+
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    font-size: 20px;
+}
